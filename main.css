@@ -1,0 +1,28 @@
+textarea {
+	width: 100%;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+}
+
+td {
+}
+
+.squish {
+	height: 1;
+}
+
+button {
+	width: 32%;
+}
+
+#lisp-code {
+	height: 95%;
+}
+
+#lisp-stdin, #lisp-stdout {
+	height: 90%;
+}
+
